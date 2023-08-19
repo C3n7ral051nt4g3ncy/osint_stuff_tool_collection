@@ -334,7 +334,6 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [MeasureMapOnline](https://app.measuremaponline.com/dashboard/overview) | tool for drawing rectangles, circles and complex polygons on a world map to measure their area and perimeter |
 | [Map Fight](https://mapfight.xyz/browse/) | compare size of two countries |
 | [Presto Map lead extractor](https://chrome.google.com/webstore/detail/presto-map-lead-extractor/ljnhdpilgapdpecpbpdiideeknfpkiih/related) | Converts information about labels on Google Maps to CSV or XLSX |
-| [Gmaps Extractor](https://chrome.google.com/webstore/detail/g-map-extractor/eehgalnhbmkfalhdjkeenggnniebdpgi/related) | Extract data from placemarks |
 | [GPS Visualizer](https://www.gpsvisualizer.com/) | show gpx and tcx files on map |
 | [Map Checking](https://www.mapchecking.com/) | tool for measuring the number of people in a crowd of different area and density. |
 | [OSM Finder](https://osm-finder.herokuapp.com/) | A tool for automate work with Overpass Turbo. Upload a photo, mark a line on the map roads, railroads, power lines and get a ready-made query to find sections of the map corresponding to the photo. |
